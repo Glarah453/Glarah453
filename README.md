@@ -19,10 +19,11 @@ I'm a Civil Engineer Specializing in Computer Science,
 
 
 
-### Most Used Languages
-<div>
-  ![Git Stadistic](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/overview.svg)
-  ![Most Used Languages](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/languages.svg)
-</div>
+### Git Statistic and Most Used Languages
 
+<a href="https://github.com/Glarah453/github-stats-transparent">
 
+![](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/languages.svg)
+
+</a>
