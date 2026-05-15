@@ -16,10 +16,11 @@ I'm a Civil Engineer Specializing in Computer Science,
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Glarah453?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![Git Stadistic](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/overview.svg)
+
 
 
 ### Most Used Languages
-
 
 ![Most Used Languages](https://raw.githubusercontent.com/Glarah453/github-stats-transparent/output/generated/languages.svg)
 
