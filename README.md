@@ -2,7 +2,7 @@
 # Hey, I'm Gabriel Lara Hormazábal!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Lara%20Hormazábal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gabriel-lara-hormazabal-a7226821a/)](https://www.linkedin.com/in/gabriel-lara-hormazabal-a7226821a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lara-hormazabal-a7226821a/)](https://www.linkedin.com/in/gabriel-lara-hormazabal-a7226821a/)
 [![Gmail Badge](https://img.shields.io/badge/-glarah453-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:glarah453@gmail.com)](mailto:glarah453@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/glarah453?label=Follow&style=social)](https://github.com/glarah453) 
 
